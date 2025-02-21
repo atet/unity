@@ -1,4 +1,4 @@
-# [atet](https://github.com/atet) / [learn](https://github.com/atet/learn/blob/master/README.md#atet--learn) / [**_unity_**](https://github.com/atet/learn/blob/master/unity/README.md#atet--learn--unity)
+# [atet](https://github.com/atet) / [**_unity_**](https://github.com/atet/unity?tab=readme-ov-file#atet--unity)
 
 [![.img/logo_unity.png](.img/logo_unity.png)](#nolink)
 
